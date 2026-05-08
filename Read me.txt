@@ -1,0 +1,29 @@
+1. Install Python
+	Check for version:
+	python --version or python3 --version
+
+2. Create a Virtual Environment (Recommended)
+	Open terminal or command prompt:
+	mkdir my_streamlit_app
+	cd my_streamlit_app
+
+	Create virtual environment:
+	python -m venv venv
+	venv\Scripts\activate
+
+3. Install Streamlit
+	In terminal:
+	pip install streamlit
+
+4. Create Your First App
+	Create a file named:
+	BMI_CALCULATOR.py
+	Paste the code
+
+5. Run the App
+	In terminal:
+	streamlit run app.py
+	
+	You’ll see something like:
+	Local URL: http://localhost:8501
+	Open it in your browser.
