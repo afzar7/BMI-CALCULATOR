@@ -22,7 +22,7 @@
 
 5. Run the App
 	In terminal:
-	streamlit run app.py
+	streamlit run BMI_CALCULATOR.py
 	
 	You’ll see something like:
 	Local URL: http://localhost:8501
