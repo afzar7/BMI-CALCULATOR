@@ -1,2 +1,2 @@
-# BMI-CALCULATOR
-BMI calculator using streamlit software
+# BMR-CALCULATOR
+BMR calculator using streamlit software
